@@ -1,0 +1,7 @@
+{
+  "name": "Tour_of_Heroes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
